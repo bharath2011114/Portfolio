@@ -73,7 +73,7 @@ Shows contact details such as email, GitHub, LinkedIn, and location in a structu
 ## How to Run the Project
 
 1. Clone or download the repository
-2. Open the `index.html` file in any web browser
+2. Open the `index.html` and `style.css` file in any web browser
 
 ---
 
