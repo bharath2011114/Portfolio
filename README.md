@@ -7,6 +7,8 @@ It demonstrates the use of HTML and CSS to design a structured, visually appeali
 
 The website presents personal details, academic background, and projects in an organized and user-friendly format.
 
+**Live Site:** [bharath2011114.github.io/Portfolio/](https://bharath2011114.github.io/Portfolio/)  
+
 ---
 
 ## Objective
